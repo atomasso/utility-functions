@@ -1,4 +1,4 @@
-A simple collection of utility functions 
+A simple collection of utility functions!
 
 # Examples
 
